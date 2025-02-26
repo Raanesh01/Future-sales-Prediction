@@ -46,6 +46,24 @@ Inventory Optimization : Implemented a MILP-based strategy to minimize holding c
 
 ### 2) Error Distribution
 
+![Image](https://github.com/user-attachments/assets/cc26e58e-777d-4743-9a33-1e3147853389)
+
+### 3) Feature Inmportance
+
+![Image](https://github.com/user-attachments/assets/a1fc130b-be8a-4522-a092-24220f2be57c)
+
+### 4) Inventory Optimisation
+
+![Image](https://github.com/user-attachments/assets/dde999a3-1c7b-4065-9781-954b2c32931f)
+
+
+## APP UI :
+
+![Image](https://github.com/user-attachments/assets/5b312510-7cd0-4257-a0cc-5c3bd574a829)
+
+![Image](https://github.com/user-attachments/assets/19e179a1-e8f5-4ccc-ac08-c92dec8e9bda)
+
+
 
 
 
