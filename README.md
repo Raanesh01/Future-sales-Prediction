@@ -40,8 +40,12 @@ Inventory Optimization : Implemented a MILP-based strategy to minimize holding c
 
 ## Visualizations : 
 
-1) Actual Vs Predicted
+### 1) Actual Vs Predicted sales
 
 ![Image](https://github.com/user-attachments/assets/ad5c073e-5c86-40b6-bbb8-39d380e0e97d)
+
+### 2) Error Distribution
+
+
 
 
