@@ -40,7 +40,7 @@ Inventory Optimization : Implemented a MILP-based strategy to minimize holding c
 
 ## Visualizations : 
 
-1) ![image alt] ()
+1) ![image alt] (https://github.com/Raanesh01/Future-sales-Prediction/blob/main/Viisualizations%20%20and%20UI/Actual%20Vs%20Predicted.png?raw=true)
 
 2) ![image alt] ()
 
